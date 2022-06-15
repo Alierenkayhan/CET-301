@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "eas1igR6an44CLxQiUhIQsNdB5L6DuYNQt3pMA8VNxs0lIoVkxkw0Px8Nh/ax4XeTPrTGWs9IwO3UcwArQP9Vg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ali_e\\OneDrive\\Masaüstü\\CET-301-main\\CET-301-main\\AliErenKayhanCalculatorHomework\\AliErenKayhanCalculatorHomework\\AliErenKayhanCalculatorHomework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ali_e\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512",
+    "C:\\Users\\ali_e\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\ali_e\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ali_e\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
