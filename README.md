@@ -84,5 +84,5 @@ This project is licensed under the terms of the [MIT](https://choosealicense.com
   
 ## Feedback
 
-If you have any feedback, please contact us at ali_erenbatman@hotmail.com.
+If you have any feedback, please contact me at ali_erenbatman@hotmail.com.
   
