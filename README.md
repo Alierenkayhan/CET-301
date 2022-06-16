@@ -32,17 +32,17 @@ There is more explanation in documents for AlierenkayhanCET301proje.
     - You have sql for AlierenkayhanCET301proje and you have to connect it.
 
 ## Features
-1-Screenshots of AlierenkayhanCET301proje <br/>
+1-Features of AlierenkayhanCET301proje <br/>
     - User-friendly interface <br/>
     - Managing Database <br/>
     - Login System <br/>
     - Having different color in every login <br/>
 
-2-Screenshots of AliErenKayhanCalculatorHomework <br/>
+2-Features of AliErenKayhanCalculatorHomework <br/>
     - User-friendly interface <br/>
     - Easy to use <br/>
     
-3-Screenshots of AliErenKayhanCalculatorHomework2 <br/>
+3-Features of AliErenKayhanCalculatorHomework2 <br/>
     - User-friendly interface <br/>
     - Easy to use <br/>
    
