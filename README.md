@@ -8,7 +8,7 @@
 [![GitHub license:](https://img.shields.io/github/license/Alierenkayhan/CET-301)](https://img.shields.io/github/license/Alierenkayhan/CET-301)
 
 This repository is for my CET 301 lesson's works. 
-These projects are desktop application and made by C#.
+These projects are desktop application and made with C#.
 There is more explanation in documents for AlierenkayhanCET301proje.
 
 
