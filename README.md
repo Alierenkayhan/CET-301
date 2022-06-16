@@ -9,22 +9,28 @@
 
 This repository is for my CET 301 lesson's works. 
 These projects are desktop application and made by C#.
+There is more explanation in documents for AlierenkayhanCET301proje.
+
 
 ## Table of Contents
 
 * [General Info](#CET-301)
 * [Technologies Used](#Technologies)
+* [Prerequisites](#Prerequisites)
 * [Features](#Features)
 * [Screenshots](#Screenshots)
-* [Demo](#Demo)
 * [Lisans](#Lisans)
 * [Feedback](#Feedback)
-
-
+* [Reference](#Reference)
+ 
 ## Technologies
-- C#
-- SQL
-  
+- <img align="left" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> 
+- <img align="left" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /> 
+- <img align="left" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+ 
+## Prerequisites
+    - Your visual studio has C# extension.
+    - Your visual studio has the development desktop application in C# extension.
 
 ## Features
 1-Screenshots of AlierenkayhanCET301proje
@@ -71,12 +77,6 @@ These projects are desktop application and made by C#.
     </tr>
    </table>
 
-
-## Demo
-  1-Demo of AlierenkayhanCET301proje
-  2-Demo of AliErenKayhanCalculatorHomework
-  3-Demo of AliErenKayhanCalculatorHomework2
-
 ## Lisans
 
 This project is licensed under the terms of the [MIT](https://choosealicense.com/licenses/mit/) license.
@@ -86,3 +86,5 @@ This project is licensed under the terms of the [MIT](https://choosealicense.com
 
 If you have any feedback, please contact me at ali_erenbatman@hotmail.com.
   
+## Reference
+    -https://github.com/alexandresanlim/Badges4-README.md-Profile
