@@ -16,6 +16,7 @@ These projects are desktop application and made by C#.
 * [Technologies Used](#Technologies)
 * [Features](#Features)
 * [Screenshots](#Screenshots)
+* [Demo](#Demo)
 * [Lisans](#Lisans)
 * [Feedback](#Feedback)
 
@@ -26,15 +27,56 @@ These projects are desktop application and made by C#.
   
 
 ## Features
+1-Screenshots of AlierenkayhanCET301proje
+    - User-friendly interface
+    - Managing Database
+    - Login System
+    - Having different color in every login
 
-- User-friendly interface
-- Managing Database
-- Login System
-- Having different color in every login
-
-
+2-Screenshots of AliErenKayhanCalculatorHomework
+    - User-friendly interface
+    - Easy to use
+    
+3-Screenshots of AliErenKayhanCalculatorHomework2
+    - User-friendly interface
+    - Easy to use
+   
 ## Screenshots
+  1-Screenshots of AlierenkayhanCET301proje
+  <table> 
+    <tr>
+        <td>  <img align="left" src="screenshots/AlierenkayhanCET301projess/AlierenkayhanCET301projess1.jpg" alt="AlierenkayhanCET301proje" width ="300" height = "300" /></p></td>
+        <td>  <img align="left" src="screenshots/AlierenkayhanCET301projess/AlierenkayhanCET301projess2.jpg" alt="AlierenkayhanCET301proje" width ="300" height = "300" /></p></td>
+        <td> <img align="left" src="screenshots/AlierenkayhanCET301projess/AlierenkayhanCET301projess3.jpg" alt="AlierenkayhanCET301proje" width ="300" height = "300" /></p></td>
+    </tr>
+   </table>
+ 
+ 
+ 
+ 
+   2-Screenshots of AliErenKayhanCalculatorHomework
+  <table> 
+    <tr>
+        <td>  <img align="left" src="screenshots/AliErenKayhanCalculatorHomeworkss/AliErenKayhanCalculatorHomeworkss1.jpg" alt="AliErenKayhanCalculatorHomework" width ="700" height = "300" /></p></td>
+    </tr>
+   </table>
+ 
   
+   3-Screenshots of AliErenKayhanCalculatorHomework2
+  <table> 
+    <tr>
+        <td>  <img align="left" src="screenshots/AliErenKayhanCalculatorHomework2ss/AliErenKayhanCalculatorHomework2ss1.jpg" alt="AliErenKayhanCalculatorHomework2" width ="300" height = "300" /></p></td>
+        <td>  <img align="left" src="screenshots/AliErenKayhanCalculatorHomework2ss/AliErenKayhanCalculatorHomework2ss2.jpg" alt="AliErenKayhanCalculatorHomework2" width ="300" height = "300" /></p></td>
+        <td> <img align="left" src="screenshots/AliErenKayhanCalculatorHomework2ss/AliErenKayhanCalculatorHomework2ss3.jpg" alt="AliErenKayhanCalculatorHomework2" width ="300" height = "300" /></p></td>
+    </tr>
+   </table>
+
+
+## Demo
+  1-Demo of AlierenkayhanCET301proje
+  2-Demo of AliErenKayhanCalculatorHomework
+  3-Demo of AliErenKayhanCalculatorHomework2
+
 ## Lisans
 
 This project is licensed under the terms of the [MIT](https://choosealicense.com/licenses/mit/) license.
