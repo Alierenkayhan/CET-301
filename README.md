@@ -45,9 +45,9 @@ These projects are desktop application and made by C#.
   1-Screenshots of AlierenkayhanCET301proje
   <table> 
     <tr>
-        <td>  <img align="left" src="screenshots/AlierenkayhanCET301projess/AlierenkayhanCET301projess1.jpg" alt="AlierenkayhanCET301proje" width ="250" height = "250" /></p></td>
-        <td>  <img align="left" src="screenshots/AlierenkayhanCET301projess/AlierenkayhanCET301projess2.jpg" alt="AlierenkayhanCET301proje" width ="250" height = "250" /></p></td>
-        <td> <img align="left" src="screenshots/AlierenkayhanCET301projess/AlierenkayhanCET301projess3.jpg" alt="AlierenkayhanCET301proje" width ="250" height = "250" /></p></td>
+        <td>  <img align="left" src="screenshots/AlierenkayhanCET301projess/AlierenkayhanCET301projess1.jpg" alt="AlierenkayhanCET301proje" width ="300" height = "300" /></p></td>
+        <td>  <img align="left" src="screenshots/AlierenkayhanCET301projess/AlierenkayhanCET301projess2.jpg" alt="AlierenkayhanCET301proje" width ="300" height = "300" /></p></td>
+        <td> <img align="left" src="screenshots/AlierenkayhanCET301projess/AlierenkayhanCET301projess3.jpg" alt="AlierenkayhanCET301proje" width ="300" height = "300" /></p></td>
     </tr>
    </table>
  
