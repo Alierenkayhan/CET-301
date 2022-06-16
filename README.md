@@ -29,8 +29,7 @@ There is more explanation in documents for AlierenkayhanCET301proje.
 - <img align="left" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
  
 ## Prerequisites
-    - Your visual studio has C# extension.
-    - Your visual studio has the development desktop application in C# extension.
+    - You have sql for AlierenkayhanCET301proje and you have to connect it.
 
 ## Features
 1-Screenshots of AlierenkayhanCET301proje <br/>
