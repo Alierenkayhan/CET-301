@@ -33,19 +33,19 @@ There is more explanation in documents for AlierenkayhanCET301proje.
     - Your visual studio has the development desktop application in C# extension.
 
 ## Features
-1-Screenshots of AlierenkayhanCET301proje
-    - User-friendly interface
-    - Managing Database
-    - Login System
-    - Having different color in every login
+1-Screenshots of AlierenkayhanCET301proje <br/>
+    - User-friendly interface <br/>
+    - Managing Database <br/>
+    - Login System <br/>
+    - Having different color in every login <br/>
 
-2-Screenshots of AliErenKayhanCalculatorHomework
-    - User-friendly interface
-    - Easy to use
+2-Screenshots of AliErenKayhanCalculatorHomework <br/>
+    - User-friendly interface <br/>
+    - Easy to use <br/>
     
-3-Screenshots of AliErenKayhanCalculatorHomework2
-    - User-friendly interface
-    - Easy to use
+3-Screenshots of AliErenKayhanCalculatorHomework2 <br/>
+    - User-friendly interface <br/>
+    - Easy to use <br/>
    
 ## Screenshots
   1-Screenshots of AlierenkayhanCET301proje
