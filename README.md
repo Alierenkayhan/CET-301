@@ -4,16 +4,17 @@
 
 <div align="center">
     
+![GitHub watchers](https://img.shields.io/github/watchers/Alierenkayhan/CET-301?style=social)   
 [![GitHub issues:](https://img.shields.io/github/issues/Alierenkayhan/CET-301)](https://img.shields.io/github/issues/Alierenkayhan/CET-301)
 [![GitHub forks:](https://img.shields.io/github/forks/Alierenkayhan/CET-301)](https://img.shields.io/github/forks/Alierenkayhan/CET-301)
 [![GitHub stars:](https://img.shields.io/github/stars/Alierenkayhan/CET-301)](https://img.shields.io/github/stars/Alierenkayhan/CET-301)
-[![GitHub license:](https://img.shields.io/github/license/Alierenkayhan/CET-301)](https://img.shields.io/github/license/Alierenkayhan/CET-301)
+[![GitHub license](https://img.shields.io/github/license/Alierenkayhan/CET-301)](https://github.com/Alierenkayhan/CET-301/blob/main/LICENSE)    
 ![GitHub all releases](https://img.shields.io/github/downloads/Alierenkayhan/CET-301/total)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Alierenkayhan/CET-301)
 ![Sourcegraph for Repo Reference Count](https://img.shields.io/sourcegraph/rrc/CET-301)
-![GitHub watchers](https://img.shields.io/github/watchers/Alierenkayhan/CET-301?style=social)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Alierenkayhan/CET-301)
-    
+ 
+     
 </div>
 
 This repository is for my CET 301 lesson's works. 
