@@ -19,6 +19,7 @@ There is more explanation in documents for AlierenkayhanCET301proje.
 * [Prerequisites](#Prerequisites)
 * [Features](#Features)
 * [Screenshots](#Screenshots)
+* [Setup](#Setup)
 * [Lisans](#Lisans)
 * [Feedback](#Feedback)
 * [Reference](#Reference)
@@ -75,6 +76,13 @@ There is more explanation in documents for AlierenkayhanCET301proje.
         <td> <img align="left" src="screenshots/AliErenKayhanCalculatorHomework2ss/AliErenKayhanCalculatorHomework2ss3.jpg" alt="AliErenKayhanCalculatorHomework2" width ="300" height = "300" /></p></td>
     </tr>
    </table>
+   
+## Setup  
+  -Download the repository.<br/>
+  -Export it from zip.<br/>
+  -Select one of the project.<br/>
+  -Export it from zip.<br/>
+  -Find the file which has with ".sln" extension and open with visual studio or your other editor.<br/>
 
 ## Lisans
 
