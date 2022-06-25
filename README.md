@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/Alierenkayhan/Alierenkayhan.github.io/blob/master/img/c%23.jpeg" alt="Alierenkayhan" width ="1100" height = "400" /></p>
+<img align="left" src="https://github.com/Alierenkayhan/Alierenkayhan.github.io/blob/master/img/c%23.jpeg" alt="Alierenkayhan" width ="100%" height = "auto" /></p>
     
 # CET-301
 
@@ -61,9 +61,9 @@ There is more explanation in documents for AlierenkayhanCET301proje.
   1-Screenshots of AlierenkayhanCET301proje
   <table> 
     <tr>
-        <td>  <img align="left" src="screenshots/AlierenkayhanCET301projess/AlierenkayhanCET301projess1.jpg" alt="AlierenkayhanCET301proje" width ="300" height = "300" /></p></td>
-        <td>  <img align="left" src="screenshots/AlierenkayhanCET301projess/AlierenkayhanCET301projess2.jpg" alt="AlierenkayhanCET301proje" width ="300" height = "300" /></p></td>
-        <td> <img align="left" src="screenshots/AlierenkayhanCET301projess/AlierenkayhanCET301projess3.jpg" alt="AlierenkayhanCET301proje" width ="300" height = "300" /></p></td>
+        <td>  <img align="left" src="screenshots/AlierenkayhanCET301projess/AlierenkayhanCET301projess1.jpg" alt="AlierenkayhanCET301proje" width ="100%" height = "auto" /></p></td>
+        <td>  <img align="left" src="screenshots/AlierenkayhanCET301projess/AlierenkayhanCET301projess2.jpg" alt="AlierenkayhanCET301proje" width ="100%" height = "auto" /></p></td>
+        <td> <img align="left" src="screenshots/AlierenkayhanCET301projess/AlierenkayhanCET301projess3.jpg" alt="AlierenkayhanCET301proje" width ="100%" height = "auto" /></p></td>
     </tr>
    </table>
  
@@ -73,7 +73,7 @@ There is more explanation in documents for AlierenkayhanCET301proje.
    2-Screenshots of AliErenKayhanCalculatorHomework
   <table> 
     <tr>
-        <td>  <img align="left" src="screenshots/AliErenKayhanCalculatorHomeworkss/AliErenKayhanCalculatorHomeworkss1.jpg" alt="AliErenKayhanCalculatorHomework" width ="700" height = "300" /></p></td>
+        <td>  <img align="left" src="screenshots/AliErenKayhanCalculatorHomeworkss/AliErenKayhanCalculatorHomeworkss1.jpg" alt="AliErenKayhanCalculatorHomework" width ="100%" height = "auto" /></p></td>
     </tr>
    </table>
  
@@ -81,9 +81,9 @@ There is more explanation in documents for AlierenkayhanCET301proje.
    3-Screenshots of AliErenKayhanCalculatorHomework2
   <table> 
     <tr>
-        <td>  <img align="left" src="screenshots/AliErenKayhanCalculatorHomework2ss/AliErenKayhanCalculatorHomework2ss1.jpg" alt="AliErenKayhanCalculatorHomework2" width ="300" height = "300" /></p></td>
-        <td>  <img align="left" src="screenshots/AliErenKayhanCalculatorHomework2ss/AliErenKayhanCalculatorHomework2ss2.jpg" alt="AliErenKayhanCalculatorHomework2" width ="300" height = "300" /></p></td>
-        <td> <img align="left" src="screenshots/AliErenKayhanCalculatorHomework2ss/AliErenKayhanCalculatorHomework2ss3.jpg" alt="AliErenKayhanCalculatorHomework2" width ="300" height = "300" /></p></td>
+        <td>  <img align="left" src="screenshots/AliErenKayhanCalculatorHomework2ss/AliErenKayhanCalculatorHomework2ss1.jpg" alt="AliErenKayhanCalculatorHomework2" width ="100%" height = "auto" /></p></td>
+        <td>  <img align="left" src="screenshots/AliErenKayhanCalculatorHomework2ss/AliErenKayhanCalculatorHomework2ss2.jpg" alt="AliErenKayhanCalculatorHomework2" width ="100%" height = "auto" /></p></td>
+        <td> <img align="left" src="screenshots/AliErenKayhanCalculatorHomework2ss/AliErenKayhanCalculatorHomework2ss3.jpg" alt="AliErenKayhanCalculatorHomework2" width ="100%" height = "auto" /></p></td>
     </tr>
    </table>
    
