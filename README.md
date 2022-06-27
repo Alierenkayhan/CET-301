@@ -4,16 +4,31 @@
 
 <div align="center">
     
+
 ![GitHub watchers](https://img.shields.io/github/watchers/Alierenkayhan/CET-301?style=social)   
+![GitHub forks](https://img.shields.io/github/forks/Alierenkayhan/CET-301?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/Alierenkayhan/CET-301?style=social)
+ 
+[![GitHub license](https://img.shields.io/github/license/Alierenkayhan/CET-301)](https://github.com/Alierenkayhan/CET-301/blob/main/LICENSE)    
+ 
 [![GitHub issues:](https://img.shields.io/github/issues/Alierenkayhan/CET-301)](https://img.shields.io/github/issues/Alierenkayhan/CET-301)
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/Alierenkayhan/CET-301)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Alierenkayhan/CET-301)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/Alierenkayhan/CET-301) 
 [![GitHub forks:](https://img.shields.io/github/forks/Alierenkayhan/CET-301)](https://img.shields.io/github/forks/Alierenkayhan/CET-301)
 [![GitHub stars:](https://img.shields.io/github/stars/Alierenkayhan/CET-301)](https://img.shields.io/github/stars/Alierenkayhan/CET-301)
-[![GitHub license](https://img.shields.io/github/license/Alierenkayhan/CET-301)](https://github.com/Alierenkayhan/CET-301/blob/main/LICENSE)    
-![GitHub all releases](https://img.shields.io/github/downloads/Alierenkayhan/CET-301/total)
+![GitHub search hit counter](https://img.shields.io/github/search/Alierenkayhan/CET-301/goto)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Alierenkayhan/CET-301)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Alierenkayhan/CET-301)
 ![Sourcegraph for Repo Reference Count](https://img.shields.io/sourcegraph/rrc/CET-301)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Alierenkayhan/CET-301)
- 
+![GitHub top language](https://img.shields.io/github/languages/top/Alierenkayhan/CET-301) 
+
+![GitHub all releases](https://img.shields.io/github/downloads/Alierenkayhan/CET-301/total)
+ <a href="https://github.com/Alierenkayhan/CET-301/archive/refs/heads/main.zip">
+<img src="https://img.shields.io/badge/Download-Project-blue" /></a>
+
      
 </div>
 
